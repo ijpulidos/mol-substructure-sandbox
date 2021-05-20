@@ -1,0 +1,3 @@
+[submodule "amber-ff-porting"]
+	path = amber-ff-porting
+	url = git@github.com:ijpulidos/amber-ff-porting.git
